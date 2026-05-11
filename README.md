@@ -36,7 +36,7 @@ I am particularly interested in how technology can be used to improve **access t
 
 All of my public projects are available here:
 
-🔗 **[https://github.com/jackforce08](https://github.com/jackforce08)**
+🔗 **[https://github.com/jackforce08](https://github.com/rdn91)**
 
 Each repository includes detailed documentation explaining the technical decisions, learning outcomes, and design rationale.
 
