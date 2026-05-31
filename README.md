@@ -4,7 +4,7 @@
 
 I am a highly motivated student developer with a strong interest in **computer science, software engineering, and applied problem-solving**. My work focuses on building practical, real-world projects that combine programming fundamentals with modern development tools.
 
-I am particularly interested in how technology can be used to improve **access to information, education, and opportunity**, as reflected in projects such as the *Libyan Scholarships Portal*.
+.
 
 ---
 
