@@ -4,13 +4,11 @@
 
 I am a highly motivated student developer with a strong interest in **computer science, software engineering, and applied problem-solving**. My work focuses on building practical, real-world projects that combine programming fundamentals with modern development tools.
 
-.
 
 ---
 
 ## 🔬 Current Focus
 
-* 🔭 Developing **Libyan Scholarships Portal** — a bilingual, data-driven web platform built with modern frontend technologies (VIBE CODED)
 * 📚 Strengthening foundations in software design, data handling, and system thinking
 
 ---
