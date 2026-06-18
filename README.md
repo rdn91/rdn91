@@ -26,6 +26,7 @@ I am a highly motivated student developer with a strong interest in **computer s
 ## 🛠️ Languages & Tools
 
 * **Python** — Fundamentals, OOP
+* **HTML, CSS, JS** Fundamentals
 * **Git & GitHub** — version control and collaboration
 
 ---
