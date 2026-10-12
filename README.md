@@ -1,6 +1,6 @@
 # Hi there, I'm Radwan 👋
 
-### Software Engineering Student @ CCT | Full-Stack, Python & Linux Systems
+### Software Engineering Student @ CCTT | Full-Stack, Python & Linux Systems
 
 I am a software engineering student at the College of Computer Technology Tripoli focused on building practical, real-world software and hands-on systems infrastructure. I bridge low-level systems and hardware constraints with modern web and backend tooling.
 
